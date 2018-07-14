@@ -1,0 +1,13 @@
+== News
+
+[[news-get]]
+include::{snippets}/news-archive-application-tests/test-get-news/auto-section.adoc[]
+
+[[news-search]]
+include::{snippets}/news-archive-application-tests/test-search/auto-section.adoc[]
+
+[[news-create]]
+include::{snippets}/news-archive-application-tests/test-add/auto-section.adoc[]
+
+[[news-update]]
+include::{snippets}/news-archive-application-tests/test-update/auto-section.adoc[]

@@ -1,0 +1,2 @@
+INSERT INTO news (id, city_id, created, author, title, content, deleted, for_teacher, photo) VALUES(1, 1, '2016-06-08 07:21:59', 3986, 'asdscdsv групп Олимпиадная ', 'Сегодня 122', 0, 0, 'no_photo.jpg');
+INSERT INTO news (id, city_id, created, author, title, content, deleted, for_teacher, photo) VALUES(2, 1, '2016-06-08 07:21:59', 3986, 'asdscdsv групп Олимпиадная ', 'Сегодня 122', 0, 0, 'no_photo.jpg');
